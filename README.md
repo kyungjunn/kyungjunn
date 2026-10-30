@@ -99,7 +99,7 @@
 - **퀘스트 시스템:** 랜덤 퀘스트 진행·판정 및 실패 시 보유 증강 감소 페널티 구현
 - **멀티플레이 확장:** Netcode for GameObjects(NGO) 적용 진행 중
 
-  [Repository](https://github.com/kyungjunn/Pain_and_Gain)
+  [📂 Repository](https://github.com/kyungjunn/Pain_and_Gain) · [📝 Notion](https://app.notion.com/p/3D-3e4261fc4ea6800cb779dfc10781379a?source=copy_link)
 
 <br>
 
@@ -112,7 +112,7 @@
 - **판정 파이프라인:** 클라이언트 예측 연출과 서버 관측 재평가 분리, PERFECT–MISS 등급 판정, 콤보 집계 및 훅당 1회 득점 처리
 - **성장 루프:** 누적점수 기반 존 해금, 코인 상점, 최고점 랭킹 및 삼축 자원 분리
 
-  [Repository](https://github.com/kyungjunn/HookMan_Roblox)
+  [📂 Repository](https://github.com/kyungjunn/HookMan_Roblox) · [📝 Notion](https://app.notion.com/p/3D-408261fc4ea680df9221ff073fbc7944?source=copy_link)
 
 <br>
 
@@ -136,7 +136,7 @@
 - 🏆 **정보처리산업기사** (2025.09)
 - 🎓 **동양미래대학교** 컴퓨터소프트웨어공학과 학사 (2026.03 ~ 2027.02 졸업 예정)
 - 🎓 **명지전문대학교** 컴퓨터공학과 전문학사 (2021.03 ~ 2026.02 졸업)
-- **몬스테라텍 K-Digital Training 부트캠프 수료** (2026.02 ~ 2026.08)
+- 🎖️ **몬스테라텍 K-Digital Training 부트캠프 수료** (2026.02 ~ 2026.08)
   - [NS 홈쇼핑] 디지털 콘텐츠 버추얼 프로덕션 전문가 과정(엔지니어)
   - 언리얼 엔진(UE5) 활용 및 멀티플레이 네트워킹 학습
 
